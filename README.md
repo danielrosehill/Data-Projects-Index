@@ -2,6 +2,15 @@
 
 [![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Github-Master-Index)
 
+## Open Data Resource Indexes
+
+#### Israel Open Data Resources
+Index of Israeli open-data repositories, datasets, and APIs — government catalogues, scrapers, parsers, and MCP servers. Includes a point-in-time snapshot of the data.gov.il CKAN catalogue (1,194 datasets across 61 publishing orgs) with an English index and Hebrew→English translation mapping.
+<br>
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-Open-Data-Resources)
+<br>
+<br>
+
 ## Sustainability Apps and Resources
 
 ![alt text](images/banner.webp)
